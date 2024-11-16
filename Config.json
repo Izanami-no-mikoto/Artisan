@@ -1,0 +1,25 @@
+[
+  {
+    "Author": "Iza",
+    "Name": "Artisan 2.0",
+    "Punchline": "A 'simple' crafting plugin but also in beta",
+    "Description": "The all-in-one crafting plugin. Perfect for people with next to no knowledge about crafting rotations. No need for a library of different macros, the solvers will work dynamically to try and complete your crafts. Also provides convenient ways to craft lists of items or grind out a specific item repeatedly.",
+    "Tags": [
+      "crafting"
+    ],
+    "InternalName": "Artisan",
+    "RepoUrl": "https://github.com/Izanami-no-mikoto/Artisan.git",
+    "DownloadCount": 42069,
+    "LastUpdate": 80085,
+    "DownloadLinkInstall": "https://download1478.mediafire.com/0ahtcwv35dug-07d5hiP1YdOb2-ixjqmxGvgwCAgVWkp1KkODidAoLHokzhsivVU_YAWTGRAeI0wGS7SciZULulwv7ChjsPpBYQCQH0BnECa0j9TVALHfRGYBExN4w6nvHgOFokPUT-3PjHYFf8bsxc7x4N-wCP5qB1hYxpshzJk/a1wlzrz3wfp4uqd/Artisan-latest-Iza.zip",
+    "DownloadLinkUpdate": "https://download1478.mediafire.com/0ahtcwv35dug-07d5hiP1YdOb2-ixjqmxGvgwCAgVWkp1KkODidAoLHokzhsivVU_YAWTGRAeI0wGS7SciZULulwv7ChjsPpBYQCQH0BnECa0j9TVALHfRGYBExN4w6nvHgOFokPUT-3PjHYFf8bsxc7x4N-wCP5qB1hYxpshzJk/a1wlzrz3wfp4uqd/Artisan-latest-Iza.zip",
+    "AssemblyVersion": "4.0.2.1",
+    "ApplicableVersion": "any",
+    "DalamudApiLevel": "11",
+    "Changelog": "- Patch update.",
+    "TestingAssemblyVersion": "4.0.0.0",
+    "DownloadLinkTesting": "https://puni.sh/api/plugins/download/6/Artisan/versions/testing.zip",
+    "TestingDalamudApiLevel": "10",
+    "IconUrl": "https://s3.puni.sh/media/plugin/6/icon-3h8wd5b9qr.png"
+  }
+]
